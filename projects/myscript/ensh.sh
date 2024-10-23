@@ -1,0 +1,1 @@
+chmod u+x mklink-autodl.sh mklink-hyy.sh poweroff.sh upload.sh log.sh

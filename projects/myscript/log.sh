@@ -1,0 +1,1 @@
+ln -s ~/autodl-tmp/sparsercnn/projects/output/output_cbam_roi_cot ~/autodl-tmp/tf-logs
